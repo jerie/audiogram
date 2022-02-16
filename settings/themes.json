@@ -88,5 +88,21 @@
     "citationColor": "#000",
     "backgroundImage": "science_why_do_bees_buzz.jpg",
     "labelColor": "#000"
-  }
+  },
+  "superskosh": {
+		"width": 720,
+		"height": 720,
+		"framesPerSecond": 30,
+		"backgroundColor": "#e6e6e6",
+		"captionAlign": "center",
+		"captionLeft": 100,
+		"captionRight": 620,
+		"captionBottom": null,
+		"captionTop": 100,
+		"pattern": "roundBars",
+		"waveTop": 520,
+		"waveBottom": 620,
+		"waveLeft": 50,
+		"waveRight": 670
+	}
 }
