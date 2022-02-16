@@ -4,7 +4,7 @@
     "height": 560,
     "framesPerSecond": 20,
     "maxDuration": 300,
-    "samplesPerFrame": 12,
+    "samplesPerFrame": 128,
     "pattern": "halfbars",
     "waveTop": 150,
     "waveBottom": 710,
@@ -90,19 +90,21 @@
     "labelColor": "#000"
   },
   "superskosh": {
-		"width": 720,
-		"height": 720,
+		"width": 600,
+		"height": 600,
 		"framesPerSecond": 30,
 		"backgroundColor": "#e6e6e6",
 		"captionAlign": "center",
 		"captionLeft": 100,
 		"captionRight": 620,
 		"captionBottom": null,
-		"captionTop": 100,
+		"captionTop": 200,
 		"pattern": "roundBars",
-		"waveTop": 520,
-		"waveBottom": 620,
-		"waveLeft": 50,
-		"waveRight": 670
+		"waveTop": 290,
+		"waveBottom": 362,
+		"waveLeft": 210,
+		"waveRight": 390,
+	      	"samplesPerFrame": 16,
+	      	"captionFont": "600 36px 'Roboto'",
 	}
 }
