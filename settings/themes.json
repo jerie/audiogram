@@ -92,7 +92,7 @@
   "superskosh": {
 		"width": 600,
 		"height": 600,
-		"framesPerSecond": 30,
+		"framesPerSecond": 10,
 		"backgroundColor": "#e6e6e6",
 		"captionAlign": "center",
 		"captionLeft": 100,
