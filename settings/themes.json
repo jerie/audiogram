@@ -105,6 +105,6 @@
 		"waveLeft": 210,
 		"waveRight": 390,
 	      	"samplesPerFrame": 16,
-	      	"captionFont": "600 36px 'Roboto'",
+	      	"captionFont": "600 36px 'Roboto'"
 	}
 }
