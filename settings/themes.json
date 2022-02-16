@@ -106,5 +106,24 @@
 		"waveRight": 390,
 	      	"samplesPerFrame": 16,
 	      	"captionFont": "600 36px 'Roboto'"
+	},
+	"greenscreen": {
+		"width": 600,
+		"height": 600,
+		"framesPerSecond": 30,
+		"backgroundColor": "#00ff00",
+		"waveColor": "#000000",
+		"captionAlign": "center",
+		"captionLeft": 100,
+		"captionRight": 620,
+		"captionBottom": null,
+		"captionTop": 200,
+		"pattern": "roundBars",
+		"waveTop": 290,
+		"waveBottom": 362,
+		"waveLeft": 210,
+		"waveRight": 390,
+	      	"samplesPerFrame": 16,
+	      	"captionFont": "600 36px 'Roboto'"
 	}
 }
