@@ -107,23 +107,17 @@
 	      	"samplesPerFrame": 16,
 	      	"captionFont": "600 36px 'Roboto'"
 	},
-	"greenscreen": {
-		"width": 600,
-		"height": 600,
-		"framesPerSecond": 30,
-		"backgroundColor": "#00ff00",
-		"waveColor": "#000000",
+	"just voice": {
+		"width": 320,
+		"height": 110,
+		"framesPerSecond": 10,
+		"backgroundColor": "#e6e6e6",
 		"captionAlign": "center",
-		"captionLeft": 100,
-		"captionRight": 620,
-		"captionBottom": null,
-		"captionTop": 200,
 		"pattern": "roundBars",
-		"waveTop": 290,
-		"waveBottom": 362,
-		"waveLeft": 210,
-		"waveRight": 390,
-	      	"samplesPerFrame": 16,
-	      	"captionFont": "600 36px 'Roboto'"
+		"waveTop": 5,
+		"waveBottom": 105,
+		"waveLeft": 0,
+		"waveRight": 320,
+	      	"samplesPerFrame": 16
 	}
 }
